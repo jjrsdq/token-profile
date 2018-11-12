@@ -1,5 +1,5 @@
 {
-  "name": "token-profile",
+  "name": "Enjoy happiness tokene",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/consenlabs/token-profile.git"
+    "url": "git+https://github.com/consenlabs/Enjoy happiness token.git"
   },
   "author": "imToken PTE. LTD",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/consenlabs/token-profile/issues"
+    "url": "https://github.com/consenlabs/Enjoy happiness token/issues"
   },
-  "homepage": "https://github.com/consenlabs/token-profile#readme"
+  "homepage": "https://github.com/consenlabs/Enjoy happiness token#readme"
 }
